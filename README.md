@@ -1,4 +1,4 @@
-# Alura MIDI: Your Digital Drum Kit
+# DJ MIDI: Your Digital Drum Kit
 
 **A fun and interactive web application that lets you create your own beats and melodies.**
 
