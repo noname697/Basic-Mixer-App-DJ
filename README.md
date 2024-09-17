@@ -24,8 +24,7 @@ Alura MIDI is a user-friendly digital drum kit that transforms your web browser 
 ## Getting Started
 To run this project locally:
 
-1. **Clone the repository:** `git clone https://github.com/your-username/Alura-MIDI.git`
-2. **Open `index.html` in your preferred web browser.**
+1. **Open `index.html` in your preferred web browser.**
 
 ## Contributing
 We welcome contributions from everyone! To contribute:
@@ -35,12 +34,6 @@ We welcome contributions from everyone! To contribute:
 3. **Make your changes.**
 4. **Submit a pull request.**
 
-## License
-[Choose an appropriate open-source license, such as MIT]
-
-## Acknowledgments
-* **Alura:** For providing the platform and resources to learn and create.
-* **[List of other contributors]**
 
 ## Future Enhancements
 * **Sequencer:** Allow users to record and playback sequences.
